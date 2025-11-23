@@ -2,8 +2,6 @@
 
 Este proyecto aborda la predicción del comportamiento de las vistas de videos que aparecen en la sección *Trending* de YouTube, utilizando diferentes variantes de redes neuronales LSTM. El objetivo es anticipar cómo evolucionarán las vistas de un video a partir de su historial temporal y ciertos metadatos.
 
----
-
 ## **Descripción**
 
 Los videos en tendencia presentan series temporales cortas, ruidosas y altamente variables, lo que vuelve difícil anticipar su crecimiento. Para estudiar este problema, se construyeron distintos modelos basados en LSTM que intentan aprender patrones característicos de popularidad.
