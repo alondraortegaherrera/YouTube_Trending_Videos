@@ -32,8 +32,6 @@ Se probaron:
 
 Cada ejemplo de entrenamiento se construye a partir de una ventana de **7 días consecutivos**, usada para predecir el octavo día.
 
----
-
 ## **Funcionalidad**
 
 * **Procesamiento del dataset:**
