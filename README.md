@@ -16,8 +16,6 @@ El proyecto incluye:
 
 El objetivo principal es comparar estos enfoques y entender cuál se adapta mejor a la naturaleza del dataset.
 
----
-
 ## **Enfoque**
 
 ### **1. Modelos LSTM**
@@ -52,8 +50,6 @@ Cada ejemplo de entrenamiento se construye a partir de una ventana de **7 días 
 
 * **Comparación de resultados:**
   Evaluación del desempeño en un conjunto de prueba común.
-
----
 
 ## **Requisitos**
 
